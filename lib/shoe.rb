@@ -37,4 +37,4 @@ end
 
 
 Shoe.new("Adidas")
-Shoe.condition = "new"
+Shoe.condition("new")
