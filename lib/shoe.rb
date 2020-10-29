@@ -5,6 +5,14 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+  
+  def size
+    @size = size
+  end
+  
+  def size=(size)
+    @size
+  end
 end
 
 
