@@ -37,3 +37,4 @@ end
 
 
 Shoe.new("Adidas")
+Shoe.condition == "new"
